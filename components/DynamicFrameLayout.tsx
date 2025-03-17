@@ -144,7 +144,7 @@ const initialFrames: Frame[] = [
     video: "https://static.cdn-luma.com/files/58ab7363888153e3/Illustration%20Exported%20(1).mp4",
     defaultPos: { x: 3, y: 3, w: 3, h: 3 },
     mediaSize: 1,
-    title: "Me",
+    title: "",
     content: ``
     ,
     photo:"public/shai.png",
