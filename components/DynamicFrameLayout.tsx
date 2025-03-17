@@ -23,7 +23,7 @@ interface Frame {
 const initialFrames: Frame[] = [
   {
     id: 1,
-    video: "https://pin.it/3WbPYnaES",
+    // video: "https://pin.it/3WbPYnaES",
     defaultPos: { x: 0, y: 0, w: 3, h: 3 },
     mediaSize: 1,
     title: "Work Experience",
@@ -64,7 +64,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 2,
-    video: "",
+    // video: "",
     defaultPos: { x: 3, y: 0, w: 3, h: 3 },
     mediaSize: 1,
     title: "Education",
@@ -79,7 +79,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 3,
-    video: "",
+    // video: "",
     defaultPos: { x: 6, y: 0, w: 3, h: 3 },
     mediaSize: 1,
     title: "Volunteering",
@@ -195,7 +195,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 9,
-    video: "",
+    // video: "",
     defaultPos: { x: 6, y: 6, w: 3, h: 3 },
     mediaSize: 1,
     title: "Contact Me",
