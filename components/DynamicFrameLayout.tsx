@@ -23,7 +23,7 @@ interface Frame {
 const initialFrames: Frame[] = [
   {
     id: 1,
-    // video: "https://pin.it/3WbPYnaES",
+    video: "https://static.cdn-luma.com/files/58ab7363888153e3/Illustration%20Exported%20(1).mp4",
     defaultPos: { x: 0, y: 0, w: 3, h: 3 },
     mediaSize: 1,
     title: "Work Experience",
@@ -64,7 +64,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 2,
-    // video: "",
+    video: "https://static.cdn-luma.com/files/58ab7363888153e3/Illustration%20Exported%20(1).mp4",
     defaultPos: { x: 3, y: 0, w: 3, h: 3 },
     mediaSize: 1,
     title: "Education",
@@ -79,7 +79,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 3,
-    // video: "",
+    video: "https://static.cdn-luma.com/files/58ab7363888153e3/Exported%20Web%20Video.mp4",
     defaultPos: { x: 6, y: 0, w: 3, h: 3 },
     mediaSize: 1,
     title: "Volunteering",
