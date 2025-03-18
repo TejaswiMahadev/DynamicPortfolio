@@ -195,7 +195,7 @@ const initialFrames: Frame[] = [
   },
   {
     id: 9,
-    // video: "",
+    video: "https://static.cdn-luma.com/files/58ab7363888153e3/Exported%20Web%20Video.mp4",
     defaultPos: { x: 6, y: 6, w: 3, h: 3 },
     mediaSize: 1,
     title: "Contact Me",
